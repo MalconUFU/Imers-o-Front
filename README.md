@@ -1,1 +1,1 @@
-# Imers-o-Front
+# Repositório dedicado para a Imersão Front-End
