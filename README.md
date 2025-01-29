@@ -1,1 +1,1 @@
-# Repositório dedicado para a Imersão Front-End
+# Repositório dedicado para a Imersão Front-End da Alura
